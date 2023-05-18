@@ -5,3 +5,7 @@ body {
 .small {
 	font-size: 0.8em;
 }
+
+li > code {
+	color: var(--r-link-color);
+}
